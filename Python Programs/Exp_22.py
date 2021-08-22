@@ -97,7 +97,7 @@ def printList(arr):
  
 # Driver Code
 
-if _name_ == '_main_':
+if __name__ == '__main__':                                       # 2 underscores before and after (name and main)
 
     arr = [12, 11, 13, 5, 6, 7]
 
